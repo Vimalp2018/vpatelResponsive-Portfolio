@@ -1,6 +1,13 @@
-h1 {text-decoration: underline;
-    margin-top: 10px;
+h3 { text-decoration: underline;
+        margin-top: 10px;
+        text-align: center;
+        border-style: solid;}
 
+.h5 { text-align: center;
+        border-style: solid;}
 
-
-}
+p { margin-top: 10px;
+    text-align: center;}
+    
+footer { background-color: black;}
+.footer {color: white;}

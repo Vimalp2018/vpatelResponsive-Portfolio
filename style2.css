@@ -1,23 +1,30 @@
-
-h2 { text-decoration: underline;
+h3 { text-decoration: underline;
     margin-left: 5px;
-}
+    text-align: center;}
 
-.Personal-contact { border-style: solid;
-
-}
+.Personal-contact { border-style: solid;}
     
-
-.contact-dropin { border-style: solid;
-
-}
+.contact-dropin { border-style: solid;}
     
-.Contact-form { margin-top: 10px;
-    margin-left: 10px;
-    margin-bottom: 10px;
+form { text-align:left;
+        margin-left: 15px;
+        margin-top: 10px;
+        margin-bottom: 10px;}
 
-}
+input {width: 95%;}
 
+textarea {width: 95%;}
 
-
+.Header {border-style: solid;
+         text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;}
  
+ul {display: inline-block;
+     text-align: left; }
+    
+p { margin-top: 10px;
+    text-align: center;}
+
+footer { background-color: black;}
+.footer {color: white;}
